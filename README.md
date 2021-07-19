@@ -1,13 +1,14 @@
 - 👋 Hi, I am Shreya Kapoor, working as a Front End Developer.
 - 👀 I have experience in creating aesthetic and user friendly websites.
 - 🌱 I am constantly upgrading my skills and learning new tech. Have hands on experience on the following technologies till now -
-1. Javascript
-2. CSS3
-3. HTML5
-4. React
-5. Redux
-6. React Native
-7. Webpack
+ - Javascript
+ - CSS3
+ - HTML5
+ - React
+ - Redux
+ - React Native
+ - Webpack
+ - Testing (Jest/Enzyme)
 - 📫 Here is my linkedIn profile - https://www.linkedin.com/in/shreya-kapoor-1302946b/
 
 <!---
